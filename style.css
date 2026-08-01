@@ -181,6 +181,18 @@ img {
   box-shadow: 0 8px 25px rgba(37, 211, 102, 0.4);
 }
 
+.btn-grab {
+  background-color: #00B14F;
+  color: white;
+  box-shadow: 0 4px 15px rgba(0, 177, 79, 0.3);
+}
+
+.btn-grab:hover {
+  background-color: #009643;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(0, 177, 79, 0.4);
+}
+
 .btn i {
   margin-right: 8px;
   font-size: 1.1rem;
